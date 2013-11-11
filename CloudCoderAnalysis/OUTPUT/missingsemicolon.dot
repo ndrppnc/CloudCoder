@@ -1,0 +1,95 @@
+digraph ast {
+n42 [label="PostfixExpression"];
+n3 [label="SimpleName"];
+n19 [label="ForStatement"];
+n20 [label="VariableDeclarationExpression"];
+n21 [label="PrimitiveType"];
+n35 [label="MethodInvocation"];
+n37 [label="SimpleName"];
+n30 [label="PostfixExpression"];
+n41 [label="ExpressionStatement"];
+n1 [label="TypeDeclaration"];
+n9 [label="SingleVariableDeclaration"];
+n45 [label="SimpleName"];
+n6 [label="Modifier"];
+n12 [label="SimpleName"];
+n22 [label="VariableDeclarationFragment"];
+n44 [label="ReturnStatement"];
+n4 [label="MethodDeclaration"];
+n26 [label="SimpleName"];
+n8 [label="SimpleName"];
+n16 [label="VariableDeclarationFragment"];
+n24 [label="NumberLiteral"];
+n31 [label="SimpleName"];
+n15 [label="PrimitiveType"];
+n36 [label="SimpleName"];
+n17 [label="SimpleName"];
+n0 [label="CompilationUnit"];
+n13 [label="Block"];
+n29 [label="SimpleName"];
+n7 [label="PrimitiveType"];
+n34 [label="InfixExpression"];
+n27 [label="MethodInvocation"];
+n2 [label="Modifier"];
+n32 [label="Block"];
+n28 [label="SimpleName"];
+n14 [label="VariableDeclarationStatement"];
+n43 [label="SimpleName"];
+n5 [label="Modifier"];
+n38 [label="SimpleName"];
+n40 [label="Block"];
+n23 [label="SimpleName"];
+n39 [label="CharacterLiteral"];
+n33 [label="IfStatement"];
+n25 [label="InfixExpression"];
+n11 [label="SimpleName"];
+n10 [label="SimpleType"];
+n18 [label="NumberLiteral"];
+
+n0 -> n1
+n1 -> n2
+n1 -> n3
+n1 -> n4
+n4 -> n5
+n4 -> n6
+n4 -> n7
+n4 -> n8
+n4 -> n9
+n9 -> n10
+n10 -> n11
+n9 -> n12
+n4 -> n13
+n13 -> n14
+n14 -> n15
+n14 -> n16
+n16 -> n17
+n16 -> n18
+n13 -> n19
+n19 -> n20
+n20 -> n21
+n20 -> n22
+n22 -> n23
+n22 -> n24
+n19 -> n25
+n25 -> n26
+n25 -> n27
+n27 -> n28
+n27 -> n29
+n19 -> n30
+n30 -> n31
+n19 -> n32
+n32 -> n33
+n33 -> n34
+n34 -> n35
+n35 -> n36
+n35 -> n37
+n35 -> n38
+n34 -> n39
+n33 -> n40
+n40 -> n41
+n41 -> n42
+n42 -> n43
+n13 -> n44
+n44 -> n45
+
+}

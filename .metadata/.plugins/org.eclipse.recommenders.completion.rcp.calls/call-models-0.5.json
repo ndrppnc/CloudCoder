@@ -1,0 +1,18 @@
+{
+  "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderAnalysis\\lib\\org.eclipse.jdt.core_3.7.1.v_B76_R37x.jar": {
+    "coordinate": "org.eclipse.jdt:org.eclipse.jdt.core:zip:call:3.0.0",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderAnalysis\\lib\\org.eclipse.jdt.core_3.7.1.v_B76_R37x.jar",
+    "status": "RESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderAnalysis\\lib\\org.eclipse.jdt.core_3.7.1.v_B76_R37x.jar\u0027. Skipped."
+  },
+  "C:\\Program Files\\Java\\jre7\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "status": "RESOLVED"
+  },
+  "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderAnalysis\\src": {
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderAnalysis\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderAnalysis\\src\u0027. Skipped."
+  }
+}

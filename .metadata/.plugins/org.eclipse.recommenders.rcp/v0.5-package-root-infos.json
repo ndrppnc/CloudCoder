@@ -1,0 +1,1211 @@
+[
+  {
+    "symbolicName": "org.eclipse.jetty.policy",
+    "version": {
+      "major": 7,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": "v20110707"
+    },
+    "jarFileFingerprint": "ea3acc7b09355faeffe1af2655a28e4a5efbe614",
+    "jarFileModificationDate": "2012-12-06T04:35:05.553-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jetty-policy-7.4.4.v20110707.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "37d1b7dd33054bc0bd033476fe0fa5d3187bedee",
+    "jarFileModificationDate": "2012-12-28T07:03:52.355-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d8905f60e63368f7e9c019c91dbf647ebbfaaa9c",
+    "jarFileModificationDate": "2012-12-28T07:03:59.934-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.util",
+    "version": {
+      "major": 7,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": "v20110707"
+    },
+    "jarFileFingerprint": "6b9c34db2b47992f323e50a3eaa67eed00bfc5c3",
+    "jarFileModificationDate": "2012-12-06T04:35:05.620-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jetty-util-7.4.4.v20110707.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.osgi",
+    "version": {
+      "major": 3,
+      "minor": 7,
+      "micro": 1,
+      "qualifier": "R37x_v20110808-1106"
+    },
+    "jarFileFingerprint": "2d80f93b8803250f232902c46eba850bf1f3e67f",
+    "jarFileModificationDate": "2012-12-06T04:35:02-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderAnalysis\\lib\\org.eclipse.osgi_3.7.1.R37x_v20110808-1106.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2d503272bf0a8b5f92d64db78b4ba9abbaccc6fd",
+    "jarFileModificationDate": "2012-12-06T04:35:02.235-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoder\\war\\WEB-INF\\lib\\httpcore-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.deploy",
+    "version": {
+      "major": 7,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": "v20110707"
+    },
+    "jarFileFingerprint": "7e7e7540b91381a10fd610e73a067a64d501ade7",
+    "jarFileModificationDate": "2012-12-06T04:35:05.437-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jetty-deploy-7.4.4.v20110707.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jline",
+    "version": {
+      "major": 0,
+      "minor": 9,
+      "micro": 95,
+      "qualifier": "SNAPSHOT"
+    },
+    "jarFileFingerprint": "d085c6b4b4a744b933749010c5be860d606988b5",
+    "jarFileModificationDate": "2012-12-06T04:35:02.680-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderBuilder\\lib\\jython.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jruby.jruby",
+    "version": {
+      "major": 1,
+      "minor": 7,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fd8905cbc2c4860af5e28a172a941c25d7ea575e",
+    "jarFileModificationDate": "2012-12-06T04:35:02.983-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderBuilder2\\lib\\jruby-complete-1.7.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jdt.compiler.tool",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 100,
+      "qualifier": "v_B76_R37x"
+    },
+    "jarFileFingerprint": "97622276bfb95c7325e721ff1d6842ebe2954dc8",
+    "jarFileModificationDate": "2012-12-06T04:35:02-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderAnalysis\\lib\\org.eclipse.jdt.compiler.tool_1.0.100.v_B76_R37x.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "validation-api-1.0.0.GA-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7a561191db2203550fbfa40d534d4997624cd369",
+    "jarFileModificationDate": "2012-12-12T10:02:46-06:00",
+    "location": "C:\\Users\\Andrei\\Desktop\\Courses\\CS Homework\\Eclipse_Juno\\eclipse\\plugins\\com.google.gwt.eclipse.sdkbundle_2.5.0.v201212122042-rel-r42\\gwt-2.5.0\\validation-api-1.0.0.GA-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "log4j",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 16,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0278c9d0ae02132ab6d00e709926c227022e85a4",
+    "jarFileModificationDate": "2012-12-06T04:35:02.258-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoder\\war\\WEB-INF\\lib\\log4j-1.2.16.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jsr305",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cf4b60c383e93324e477998b8847e6c3a207ae41",
+    "jarFileModificationDate": "2012-12-06T04:35:05.889-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderLogging\\lib\\jsr305.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javax.servlet",
+    "version": {
+      "major": 2,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": "v200910301333"
+    },
+    "jarFileFingerprint": "356e6f50180b69face188e1d6691e6df08ea5b28",
+    "jarFileModificationDate": "2012-12-06T04:35:05.760-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\servlet-api-2.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "565df41f8aaa6dceaacc765dde6bec4572c06eed",
+    "jarFileModificationDate": "2012-12-28T07:03:52.248-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.io",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fd51f906669f49a4ffd06650666c3b8147a6106e",
+    "jarFileModificationDate": "2012-12-06T04:35:02.197-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoder\\war\\WEB-INF\\lib\\commons-io-2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.annotations",
+    "version": {
+      "major": 7,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": "v20110707"
+    },
+    "jarFileFingerprint": "896b77d0a700c0336350de32fe043a249a9bac84",
+    "jarFileModificationDate": "2012-12-06T04:35:03.773-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jetty-annotations-7.4.4.v20110707.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpclient",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "64849efdc10ea21eed3be7cc19ea7ec5af186776",
+    "jarFileModificationDate": "2012-12-06T04:35:02.226-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoder\\war\\WEB-INF\\lib\\httpclient-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.http",
+    "version": {
+      "major": 7,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": "v20110707"
+    },
+    "jarFileFingerprint": "74219b936c40e39830b7f352a0f08093539061e6",
+    "jarFileModificationDate": "2012-12-06T04:35:05.510-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jetty-http-7.4.4.v20110707.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.servlets",
+    "version": {
+      "major": 7,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": "v20110707"
+    },
+    "jarFileFingerprint": "91b52c147d3fed43b336e64d888538ae18063f2c",
+    "jarFileModificationDate": "2012-12-06T04:35:05.612-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jetty-servlets-7.4.4.v20110707.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.jmx",
+    "version": {
+      "major": 7,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": "v20110707"
+    },
+    "jarFileFingerprint": "f366b68ca4c8115dc051493303b44fd08a1bcb5c",
+    "jarFileModificationDate": "2012-12-06T04:35:05.525-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jetty-jmx-7.4.4.v20110707.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f831655c50b92c41e366442d09511ea84270c45e",
+    "jarFileModificationDate": "2012-12-28T07:03:52.504-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a3d1a9689f1c8e36ab64fb669df92076771c42f2",
+    "jarFileModificationDate": "2012-12-28T07:03:52.348-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.osgi.util",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 200,
+      "qualifier": "v20110110"
+    },
+    "jarFileFingerprint": "fdfcba63ad35b8bef89513bb610abf0d32b01ac3",
+    "jarFileModificationDate": "2012-12-06T04:35:02-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderAnalysis\\lib\\org.eclipse.osgi.util_3.2.200.v20110110.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.mortbay.jetty.servlet-api-2.5",
+    "version": {
+      "major": 6,
+      "minor": 1,
+      "micro": 11,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "59edfa312a32c2db17401a786f85d2a397e8ba44",
+    "jarFileModificationDate": "2012-12-12T10:02:42-06:00",
+    "location": "C:\\Users\\Andrei\\Desktop\\Courses\\CS Homework\\Eclipse_Juno\\eclipse\\plugins\\com.google.gwt.eclipse.sdkbundle_2.5.0.v201212122042-rel-r42\\gwt-2.5.0\\gwt-dev.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "log4j",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 16,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0278c9d0ae02132ab6d00e709926c227022e85a4",
+    "jarFileModificationDate": "2012-12-06T04:35:05.901-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderLogging\\lib\\log4j-1.2.16.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.sun.mail.imap",
+    "version": {
+      "major": 1,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d6e363404c344690a5d3176b4feae13fe9f7a5a9",
+    "jarFileModificationDate": "2012-12-06T04:35:02.244-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoder\\war\\WEB-INF\\lib\\imap.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.sun.mail.javax.mail",
+    "version": {
+      "major": 1,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "29db85cb07136bc758cf6ea3bc5e5d04812e314f",
+    "jarFileModificationDate": "2012-12-06T04:35:07.014-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderRepository\\war\\WEB-INF\\lib\\mail.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jline",
+    "version": {
+      "major": 0,
+      "minor": 9,
+      "micro": 95,
+      "qualifier": "SNAPSHOT"
+    },
+    "jarFileFingerprint": "d085c6b4b4a744b933749010c5be860d606988b5",
+    "jarFileModificationDate": "2012-12-06T04:35:03.157-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderBuilder2\\lib\\jython.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "gwt-user",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c5988f7804d970653d3a974ca13089c9682e10b5",
+    "jarFileModificationDate": "2012-12-12T10:02:42-06:00",
+    "location": "C:\\Users\\Andrei\\Desktop\\Courses\\CS Homework\\Eclipse_Juno\\eclipse\\plugins\\com.google.gwt.eclipse.sdkbundle_2.5.0.v201212122042-rel-r42\\gwt-2.5.0\\gwt-user.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "786f52935e544971850345b4b5a2af6e39a5d0f0",
+    "jarFileModificationDate": "2012-12-28T07:03:52.645-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.equinox.common",
+    "version": {
+      "major": 3,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": "v20110523"
+    },
+    "jarFileFingerprint": "78e5d0b8516b042495660da36ce5114650f8f156",
+    "jarFileModificationDate": "2012-12-06T04:35:02-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderAnalysis\\lib\\org.eclipse.equinox.common_3.6.0.v20110523.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.jasper.glassfish",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": "v201007080150"
+    },
+    "jarFileFingerprint": "a37360a889be40c5024a3ed5b046015a5afe1173",
+    "jarFileModificationDate": "2012-12-06T04:35:05.741-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jsp\\org.apache.jasper.glassfish_2.1.0.v201007080150.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.webapp",
+    "version": {
+      "major": 7,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": "v20110707"
+    },
+    "jarFileFingerprint": "dedebb27b64019937bae7d0998a2b9b72af084b4",
+    "jarFileModificationDate": "2012-12-06T04:35:05.628-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jetty-webapp-7.4.4.v20110707.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.text",
+    "version": {
+      "major": 3,
+      "minor": 5,
+      "micro": 101,
+      "qualifier": "r371_v20110810-0800"
+    },
+    "jarFileFingerprint": "54a442442c575e6809c18f7dfc848755a58ab955",
+    "jarFileModificationDate": "2012-12-06T04:35:02-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderAnalysis\\lib\\org.eclipse.text_3.5.101.r371_v20110810-0800.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.core.jobs",
+    "version": {
+      "major": 3,
+      "minor": 5,
+      "micro": 100,
+      "qualifier": "v20110404"
+    },
+    "jarFileFingerprint": "7e99e30a7f23423a250744af33009fc2fbcdf241",
+    "jarFileModificationDate": "2012-12-06T04:35:02-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderAnalysis\\lib\\org.eclipse.core.jobs_3.5.100.v20110404.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.core.contenttype",
+    "version": {
+      "major": 3,
+      "minor": 4,
+      "micro": 100,
+      "qualifier": "v20110423-0524"
+    },
+    "jarFileFingerprint": "7052e115041d04410a4519a61307502fb7c138e6",
+    "jarFileModificationDate": "2012-12-06T04:35:02-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderAnalysis\\lib\\org.eclipse.core.contenttype_3.4.100.v20110423-0524.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.xml",
+    "version": {
+      "major": 7,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": "v20110707"
+    },
+    "jarFileFingerprint": "30a4c8434674fa469bc8ef918c7d1f0d0e350f14",
+    "jarFileModificationDate": "2012-12-06T04:35:05.641-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jetty-xml-7.4.4.v20110707.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.security",
+    "version": {
+      "major": 7,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": "v20110707"
+    },
+    "jarFileFingerprint": "a99af2df24fd861ad0bf2e596ee7e13b7eee92a8",
+    "jarFileModificationDate": "2012-12-06T04:35:05.567-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jetty-security-7.4.4.v20110707.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.jndi",
+    "version": {
+      "major": 7,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": "v20110707"
+    },
+    "jarFileFingerprint": "7c36c26fc213c9c2ffdfcd1ced7476f8a1a3320f",
+    "jarFileModificationDate": "2012-12-06T04:35:05.531-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jetty-jndi-7.4.4.v20110707.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.servlet",
+    "version": {
+      "major": 7,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": "v20110707"
+    },
+    "jarFileFingerprint": "f838d70a5e1217ce23fbc7219394f45dca8074ea",
+    "jarFileModificationDate": "2012-12-06T04:35:05.605-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jetty-servlet-7.4.4.v20110707.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javax.servlet.jsp",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": "v201004190952"
+    },
+    "jarFileFingerprint": "2c891df2ef4882fd250d34d7a873061bf4c3d9bc",
+    "jarFileModificationDate": "2012-12-06T04:35:05.722-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jsp\\javax.servlet.jsp_2.1.0.v201004190952.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "358fa59c568819d499dad54717144d8ec5c7962d",
+    "jarFileModificationDate": "2012-12-28T07:03:59.828-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.websocket",
+    "version": {
+      "major": 7,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": "v20110707"
+    },
+    "jarFileFingerprint": "d877258c524fb63a4992c2a5b1ed44d1ba4dd8d5",
+    "jarFileModificationDate": "2012-12-06T04:35:05.635-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jetty-websocket-7.4.4.v20110707.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "506f8128a7fa15fa0ff4fcaa771d7fad54742649",
+    "jarFileModificationDate": "2012-12-28T07:03:52.032-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\access-bridge-64.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "daemon",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a3783511faaae7f210eb1ce26c2435d5c41c1dbd",
+    "jarFileModificationDate": "2012-12-06T04:35:02.782-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderBuilder2\\lib\\daemon.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "dc91b329199e2532482795985e4254049606aede",
+    "jarFileModificationDate": "2012-12-28T07:03:52.062-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "junit",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "365907cf1e488e967f1d3e923d0111b36d930ee6",
+    "jarFileModificationDate": "2012-12-28T07:42:09.335-06:00",
+    "location": "C:\\Users\\Andrei\\Desktop\\Courses\\CS Homework\\Eclipse_Juno\\eclipse\\plugins\\org.junit_4.10.0.v4_10_0_v20120426-0900\\junit.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.equinox.preferences",
+    "version": {
+      "major": 3,
+      "minor": 4,
+      "micro": 1,
+      "qualifier": "R37x_v20110725"
+    },
+    "jarFileFingerprint": "6770649a91266a4a17747b201723a1fea8c8a198",
+    "jarFileModificationDate": "2012-12-06T04:35:02-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderAnalysis\\lib\\org.eclipse.equinox.preferences_3.4.1.R37x_v20110725.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4838808e80df811cfb2bf7faf361b3cbc16f9f81",
+    "jarFileModificationDate": "2011-08-30T23:05:02-05:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\dns_sd.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.io",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fd51f906669f49a4ffd06650666c3b8147a6106e",
+    "jarFileModificationDate": "2012-12-06T04:35:02.776-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderBuilder2\\lib\\commons-io-2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.core.resources",
+    "version": {
+      "major": 3,
+      "minor": 7,
+      "micro": 100,
+      "qualifier": "v20110510-0712"
+    },
+    "jarFileFingerprint": "6c56ea28b84afe7d55de02763846e76dbfb0b689",
+    "jarFileModificationDate": "2012-12-06T04:35:02-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderAnalysis\\lib\\org.eclipse.core.resources_3.7.100.v20110510-0712.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "daemon",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a3783511faaae7f210eb1ce26c2435d5c41c1dbd",
+    "jarFileModificationDate": "2012-12-06T04:35:03.760-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\daemon\\daemon.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jdt.core",
+    "version": {
+      "major": 3,
+      "minor": 7,
+      "micro": 1,
+      "qualifier": "v_B76_R37x"
+    },
+    "jarFileFingerprint": "5b8c16187a8cdf21b34cce0dd1b11820d8b273f7",
+    "jarFileModificationDate": "2012-12-06T04:35:02-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderAnalysis\\lib\\org.eclipse.jdt.core_3.7.1.v_B76_R37x.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.plus",
+    "version": {
+      "major": 7,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": "v20110707"
+    },
+    "jarFileFingerprint": "a9f00b7e8299f9fba2ebfde7e20f2eff2e02d787",
+    "jarFileModificationDate": "2012-12-06T04:35:05.547-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jetty-plus-7.4.4.v20110707.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.continuation",
+    "version": {
+      "major": 7,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": "v20110707"
+    },
+    "jarFileFingerprint": "d4b5905abe9b5e450d8716b78dcceb46b0ec48c8",
+    "jarFileModificationDate": "2012-12-06T04:35:03.967-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jetty-continuation-7.4.4.v20110707.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.sun.el",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "v201004190952"
+    },
+    "jarFileFingerprint": "84d1928dbcf564dab574577ac454ef7cacec2b9a",
+    "jarFileModificationDate": "2012-12-06T04:35:05.649-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jsp\\com.sun.el_1.0.0.v201004190952.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.jsp-2.1",
+    "version": {
+      "major": 7,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": "v20110707"
+    },
+    "jarFileFingerprint": "0776c57d5f56beb988a8d9c28b57bfbd7fc0cab6",
+    "jarFileModificationDate": "2012-12-06T04:35:05.728-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jsp\\jetty-jsp-2.1-7.4.4.v20110707.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javax.servlet.jsp.jstl",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": "v201004190952"
+    },
+    "jarFileFingerprint": "582f581db2e9646d1f61313f3d96ced8c0acdac5",
+    "jarFileModificationDate": "2012-12-06T04:35:05.715-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jsp\\javax.servlet.jsp.jstl_1.2.0.v201004190952.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "940cc3df49a3ff55a163a6c35430844f75f9b0ad",
+    "jarFileModificationDate": "2012-12-28T07:03:52.518-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.google.guava.guava",
+    "version": {
+      "major": 11,
+      "minor": 0,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "35a3c69e19d72743cac83778aecbee68680f63eb",
+    "jarFileModificationDate": "2012-12-06T04:35:05.883-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderLogging\\lib\\guava.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "slf4j.log4j12",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0f5f137b4b1e253e7816e5a86084f5cf6d82bb76",
+    "jarFileModificationDate": "2012-12-06T04:35:05.934-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderLogging\\lib\\slf4j-log4j12-1.6.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.client",
+    "version": {
+      "major": 7,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": "v20110707"
+    },
+    "jarFileFingerprint": "b85be5748645115a93f9e9fb59c67e50a19337d1",
+    "jarFileModificationDate": "2012-12-06T04:35:03.960-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jetty-client-7.4.4.v20110707.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.core.runtime",
+    "version": {
+      "major": 3,
+      "minor": 7,
+      "micro": 0,
+      "qualifier": "v20110110"
+    },
+    "jarFileFingerprint": "6658c235056134f7e86295e751129508802d71f2",
+    "jarFileModificationDate": "2012-12-06T04:35:02-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderAnalysis\\lib\\org.eclipse.core.runtime_3.7.0.v20110110.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jdt.compiler.apt",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 400,
+      "qualifier": "v0110816-0800"
+    },
+    "jarFileFingerprint": "71f29a1fe3d74267964b317873f733cb21e12373",
+    "jarFileModificationDate": "2012-12-06T04:35:02-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderAnalysis\\lib\\org.eclipse.jdt.compiler.apt_1.0.400.v0110816-0800.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "slf4j.log4j12",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0f5f137b4b1e253e7816e5a86084f5cf6d82bb76",
+    "jarFileModificationDate": "2012-12-06T04:35:02.303-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoder\\war\\WEB-INF\\lib\\slf4j-log4j12-1.6.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.server",
+    "version": {
+      "major": 7,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": "v20110707"
+    },
+    "jarFileFingerprint": "6a9c550aa41dc98aec1089a3244039cc26a85a7d",
+    "jarFileModificationDate": "2012-12-06T04:35:05.577-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jetty-server-7.4.4.v20110707.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.fileupload",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1e48256a2341047e7d729217adeec8217f6e3a1a",
+    "jarFileModificationDate": "2012-12-06T04:35:02.188-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoder\\war\\WEB-INF\\lib\\commons-fileupload-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "slf4j.api",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bff73780230e6559b63134bbc2056c312eabb849",
+    "jarFileModificationDate": "2012-12-06T04:35:05.929-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderLogging\\lib\\slf4j-api-1.6.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "dom4j-1.6.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5d3ccc056b6f056dbf0dddfdf43894b9065a8f94",
+    "jarFileModificationDate": "2012-12-06T04:35:07.411-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderTools\\lib\\dom4j-1.6.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javax.el",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": "v201004190952"
+    },
+    "jarFileFingerprint": "b4628cebfe2612db3c646ffbde43029fd3d0d7a0",
+    "jarFileModificationDate": "2012-12-06T04:35:05.708-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jsp\\javax.el_2.1.0.v201004190952.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3ae0cff91d7f40d5b4c7cefbbd1eab34025bdc15",
+    "jarFileModificationDate": "2013-01-24T00:46:35.423-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\mysql-connector-java-5.1.22-bin.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.googlecode.json-simple",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5d6f9b6a9ddca2a28c0216cc44efb2e20d9c23b5",
+    "jarFileModificationDate": "2012-12-06T04:35:06.409-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderModelClassesJSON\\lib\\json-simple-1.1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.mysql.jdbc",
+    "version": {
+      "major": 5,
+      "minor": 1,
+      "micro": 16,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2780fb82cc9c7083f06724432b4f1d1607548d77",
+    "jarFileModificationDate": "2012-12-06T04:35:06.518-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderModelClassesPersistence\\lib\\mysql-connector-java-5.1.16-bin.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javax.validation.validation-api",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "GA"
+    },
+    "jarFileFingerprint": "b6bd7f9d78f6fdaa3c37dae18a4bd298915f328e",
+    "jarFileModificationDate": "2012-12-12T10:02:46-06:00",
+    "location": "C:\\Users\\Andrei\\Desktop\\Courses\\CS Homework\\Eclipse_Juno\\eclipse\\plugins\\com.google.gwt.eclipse.sdkbundle_2.5.0.v201212122042-rel-r42\\gwt-2.5.0\\validation-api-1.0.0.GA.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "daemon",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a3783511faaae7f210eb1ce26c2435d5c41c1dbd",
+    "jarFileModificationDate": "2012-12-06T04:35:02.580-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderBuilder\\lib\\daemon.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c4c7923b11e98bc8d1d32bfd2ff6363d212ead80",
+    "jarFileModificationDate": "2012-12-28T07:03:52.243-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.sun.mail.javax.mail",
+    "version": {
+      "major": 1,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "29db85cb07136bc758cf6ea3bc5e5d04812e314f",
+    "jarFileModificationDate": "2012-12-06T04:35:02.271-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoder\\war\\WEB-INF\\lib\\mail.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "owasp-java-html-sanitizer",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "168ffce45aaf39f0666ace6f9b2af199e7766e7d",
+    "jarFileModificationDate": "2012-12-06T04:35:05.922-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderLogging\\lib\\owasp-java-html-sanitizer.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "opencsv-2.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c0ffd01065bc3fe571e1a4eb7014a03333f0663d",
+    "jarFileModificationDate": "2012-12-06T04:35:02.290-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoder\\war\\WEB-INF\\lib\\opencsv-2.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.io",
+    "version": {
+      "major": 7,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": "v20110707"
+    },
+    "jarFileFingerprint": "6081a93e272de38cf99ccc6a5c2ad39122b7e14d",
+    "jarFileModificationDate": "2012-12-06T04:35:05.517-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jetty-io-7.4.4.v20110707.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "slf4j.api",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bff73780230e6559b63134bbc2056c312eabb849",
+    "jarFileModificationDate": "2012-12-06T04:35:02.297-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoder\\war\\WEB-INF\\lib\\slf4j-api-1.6.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "db0bbf080223ecc5a8e7855fcf78a3e9143a4d89",
+    "jarFileModificationDate": "2012-12-28T07:03:59.144-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.hamcrest.core",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": "v20090501071000"
+    },
+    "jarFileFingerprint": "254c9660266e1177c94b1a9ba05f6f757e7fb85a",
+    "jarFileModificationDate": "2012-12-28T07:38:53.295-06:00",
+    "location": "C:\\Users\\Andrei\\Desktop\\Courses\\CS Homework\\Eclipse_Juno\\eclipse\\plugins\\org.hamcrest.core_1.1.0.v20090501071000.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.taglibs.standard.glassfish",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": "v201004190952"
+    },
+    "jarFileFingerprint": "b070c22fe31d84de75135da39faff654fe42c933",
+    "jarFileModificationDate": "2012-12-06T04:35:05.753-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jsp\\org.apache.taglibs.standard.glassfish_1.2.0.v201004190952.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jdt.core.compiler.batch",
+    "version": {
+      "major": 3,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": "I20100608-0911"
+    },
+    "jarFileFingerprint": "5618cc694d1e1ce8956fa441b551c8b690547fab",
+    "jarFileModificationDate": "2012-12-06T04:35:05.673-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jsp\\ecj-3.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.rewrite",
+    "version": {
+      "major": 7,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": "v20110707"
+    },
+    "jarFileFingerprint": "02770c7c286be97f512a5776a43c35ccc32edf3c",
+    "jarFileModificationDate": "2012-12-06T04:35:05.560-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jetty-rewrite-7.4.4.v20110707.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "290a9fd7c761e16c23510585e36f6e104d91a2bf",
+    "jarFileModificationDate": "2012-12-28T07:03:52.173-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.io",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fd51f906669f49a4ffd06650666c3b8147a6106e",
+    "jarFileModificationDate": "2012-12-06T04:35:02.573-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderBuilder\\lib\\commons-io-2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.ajp",
+    "version": {
+      "major": 7,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": "v20110707"
+    },
+    "jarFileFingerprint": "bf92f4d98eb03f9d72a6f8a57d304b1f7a2228ea",
+    "jarFileModificationDate": "2012-12-06T04:35:03.767-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderJetty\\lib\\jetty\\jetty-ajp-7.4.4.v20110707.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e797fa099d479ce869565dc92520a59e5ffe9c18",
+    "jarFileModificationDate": "2012-12-28T07:03:58.818-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jaxen-1.1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "eebcb4a8d7579c85494737e10d1a87495210a5a3",
+    "jarFileModificationDate": "2012-12-06T04:35:07.420-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderTools\\lib\\jaxen-1.1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jface",
+    "version": {
+      "major": 3,
+      "minor": 7,
+      "micro": 0,
+      "qualifier": "I20110522-1430"
+    },
+    "jarFileFingerprint": "6ee6a666568183383528686bd30b13140011989e",
+    "jarFileModificationDate": "2012-12-06T04:35:02-06:00",
+    "location": "C:\\Users\\Andrei\\Documents\\GitHub\\CloudCoder\\CloudCoderAnalysis\\lib\\org.eclipse.jface_3.7.0.I20110522-1430.jar",
+    "javaRuntime": false
+  }
+]

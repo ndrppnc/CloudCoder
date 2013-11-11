@@ -31,7 +31,10 @@ public class ParseToDotFile extends ASTVisitor
     private Map<ASTNode,String> names=new HashMap<ASTNode,String>();
     private StringBuffer dotfile=new StringBuffer();
     
-    
+    public static void main(String[] args) throws IOException{
+    	String file = readFile("testing/features/java/A1.java");
+    	parseProgramTextToDotFile(file,"myOutput.dot");
+    }
 
     private static String readFile(String filename) throws IOException 
     {

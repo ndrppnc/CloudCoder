@@ -10,6 +10,6 @@ public class TestParser
     {
         String filePath="testing/features/java/MissingSemicolon.java";
         FeatureVisitor visitor=new FeatureVisitor();
-        visitor.extractFeatures(filePath);
+        //visitor.extractFeatures(filePath);
     }
 }
